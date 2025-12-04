@@ -1,13 +1,12 @@
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi,+I'm+Onuoha+Chidera+Alexander;Frontend+Developer;Fullstack+Developer+In+Progress;Building+Clean+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi,+I'm+Onuoha+Chidera+Alexander;Fullstack+Developer;Building+Clean+Digital+Experiences" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
-I’m a developer focused on building functional and scalable web experiences.  
-Currently improving in React, Next.js, Node.js, and backend engineering.
+I’m a developer focused on building functional and scalable web experiences. 
 
 ---
 
@@ -27,14 +26,6 @@ Currently improving in React, Next.js, Node.js, and backend engineering.
 #### **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Alexanderonuoha&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexanderonuoha&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
