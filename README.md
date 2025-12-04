@@ -32,3 +32,6 @@ I’m a developer focused on building functional and scalable web experiences.
 ### 🌐 Social Links  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Alexanderonuoha.Alexanderonuoha)
