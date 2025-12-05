@@ -11,28 +11,31 @@
 <!-- ---------------------- MOVING BADGES ---------------------- -->
 
 ### 🔥 Languages & Tools  
-<p>
-  <marquee behavior="scroll" direction="left" scrollamount="6">
+<p align="center">
+  <svg width="100%" height="120">
+    <defs>
+      <path id="line"
+        d="M0 60 L2000 60"
+        stroke="transparent" fill="none"/>
+    </defs>
 
-    <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-
-    <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" />
-
-    <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-  </marquee>
+    <text font-size="22" fill="#00C3FF">
+      <textPath href="#line" startOffset="100%">
+        🔥 HTML • CSS • JavaScript • React • NextJs • NodeJs • ExpressJs • MongoDB • MySQL • Git • GitHub • Postman • Auth 
+      </textPath>
+      <animate xlink:href="#line"
+        attributeName="d"
+        dur="12s"
+        repeatCount="indefinite"
+        values="
+          M0 60 L2000 60;
+          M-2000 60 L0 60;
+          M0 60 L2000 60
+        ">
+      </animate>
+    </text>
+  </svg>
 </p>
-
 ---
 
 # 📂 About This Repo  
