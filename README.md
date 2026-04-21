@@ -36,14 +36,6 @@ MongoDB • MySQL
 
 #### **Systems & Simulation**
 C • C++ • Python  
-
----
-
-### ⚙️ What I’m Building
-- 🌐 Fullstack platforms with real-world integration  
-- 🔌 Embedded-powered systems connected to the web  
-- 🧠 Simulation-driven tools for analysis & decision-making  
-
 ---
 
 ### 🧠 Projects 
