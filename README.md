@@ -36,7 +36,6 @@ MongoDB • MySQL
 
 #### **Systems & Simulation**
 C • C++ • Python  
----
 
 ### 🧠 Projects 
 - 
