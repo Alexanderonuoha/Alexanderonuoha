@@ -10,8 +10,8 @@ I don’t just build web apps — I build **complete systems across software and
 
 My work sits at the intersection of:
 - 🌐 **Fullstack Development** → interactive, data-driven web platforms  
-- ⚙️ **Embedded Systems** → hardware interaction (C/C++)  
-- 🧠 **Simulation** → modeling real-world behavior using Python  
+- ⚙️ **Embedded Systems** → hardware interaction 
+- 🧠 **Simulation** → modeling real-world behavior  
 
 I build **interdisciplinary solutions** where:
 > software interfaces connect to real-world systems, and simulations guide intelligent decisions.
@@ -26,7 +26,7 @@ Think:
 ### 🛠️ Tech Stack  
 
 #### **Frontend**
-JavaScript • TypeScript • React  
+JavaScript • React  
 
 #### **Backend**
 Node.js • Express.js  
