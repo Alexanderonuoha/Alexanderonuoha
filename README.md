@@ -10,16 +10,14 @@ I don’t just build web apps — I build **complete systems across software and
 
 My work sits at the intersection of:
 - 🌐 **Fullstack Development** → interactive, data-driven web platforms  
-- ⚙️ **Embedded Systems** → hardware interaction 
-- 🧠 **Simulation** → modeling real-world behavior  
+- ⚙️ **Embedded Systems** → hardware interaction
 
 I build **interdisciplinary solutions** where:
-> software interfaces connect to real-world systems, and simulations guide intelligent decisions.
+> software interfaces connect to real-world systems.
 
 Think:
 >- Web dashboards controlling physical devices  
 >- Systems that collect, process, and visualize real-world data  
->- Simulations that influence how systems behave in production  
 
 ---
 
@@ -38,7 +36,7 @@ MongoDB • MySQL
 C • C++ • Python  
 
 ### 🧠 Projects 
-- matchup-two.vercel.app
+- [] matchup-two.vercel.app
 - 
 - 
 ---
